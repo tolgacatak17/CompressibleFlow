@@ -1,4 +1,4 @@
-# CompressibleFlow
+# Modeling Isentropic Flow and Fanno Flow
 
 This repository contains an assignment for the **Fluid Dynamics II (ME455)** course at **Bogazici University**, 
 Mechanical Engineering Department. This assignment includes simple engineering models to analyze subsonic and 
@@ -61,7 +61,7 @@ The methodology and the equations are explained more thoroughly in the report.
 
 ---
 
-## Tasks
+## Task
 
 The following tasks are to be completed as part of this assignment:
 
