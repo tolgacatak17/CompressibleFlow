@@ -78,3 +78,16 @@ The following tasks are to be completed as part of this assignment:
 **2. Fanno Flow Analysis**:
 - Calculate the duct length required to accelerate flow to Mach 1 for air and helium.
 - Analyze and plot the duct length against Mach number at intervals of 0.1 (**0.1 ≤ M ≤ 1**).
+
+---
+
+## Repository Structure
+
+1. **`code/`**: Contains MATLAB scripts for solving and analyzing compressible flow problems, including shock positioning and Fanno flow calculations.
+
+2. **`figures/`**: Includes plots and visualizations of the results, such as pressure ratios and Mach number distributions.
+
+3. **`report/`**: Contains the project report explaining the mathematical models, methodology, and analysis of results.
+
+4. **`README.md`**: Provides an overview of the project, objectives, and instructions for using the MATLAB scripts and interpreting the outcomes.
+
