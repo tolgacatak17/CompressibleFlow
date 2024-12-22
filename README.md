@@ -83,9 +83,11 @@ The following tasks are to be completed as part of this assignment:
 
 ## Repository Structure
 
+This repository is organized as follows:
+
 1. **`code/`**: Contains MATLAB scripts for solving and analyzing compressible flow problems, including shock positioning and Fanno flow calculations.
 
-2. **`figures/`**: Includes plots and visualizations of the results, such as pressure ratios and Mach number distributions.
+2. **`figures/`**: Contains plots and visualizations of the results, such as pressure ratios and Mach number distributions.
 
 3. **`report/`**: Contains the project report explaining the mathematical models, methodology, and analysis of results.
 
